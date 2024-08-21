@@ -19,8 +19,8 @@
 
 
 
-> 鸣谢:由**jsDelivr**提供支持
+> 鸣谢:由**jsDelivr**提供支持[![](https://data.jsdelivr.com/v1/package/gh/southaki/contentDeliveryNetwork/badge)](https://www.jsdelivr.com/package/gh/southaki/contentDeliveryNetwork)
 >
 > 版本号会随时更新,请注意变更
 >
-> 文件系统:https://fastly.jsdelivr.net/gh/southaki/contentDeliveryNetwork@v0.0.2/
+> 文件系统:https://www.jsdelivr.com/package/gh/southaki/contentDeliveryNetwork
