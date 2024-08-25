@@ -66,5 +66,41 @@ function getRandomNumber() {
 getRandomNumber();
 ```
 
+## 3.getTwoNumberOfSymbols(获取两个数字的符号是否一致)
 
+```javascript
+/*
+* getTwoNumberOfSymbols() 获取两个数的符号时候一致 
+* @param {number,number} num1,num2
+* @return {boolean}
+*/
+function getTwoNumberOfSymbols(num1 , num2) {
+    return (num1 ^ num2) >= 0;
+}
+```
+
+调用方法:
+
+```javascript
+getTwoNumberOfSymbols(num1, num2);
+```
+
+## 4.isPowerOf(判断一个数是不是2的整数幂)
+
+```javascript
+/*
+* isPowerOf() 判断一个数是不是2的整数幂
+* @param {number} num
+* @return {boolean}
+*/
+function isPowerOf(num) {
+    return (num & (num - 1)) === 0;
+}
+```
+
+调用方法:
+
+```javascript
+isPowerOf(num);
+```
 
