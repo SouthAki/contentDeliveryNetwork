@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "type": "Pizza",
+            "name": "Cheese Pizza",
+            "price": 15.00,
+            "pic": "https://picsum.photos/300/300?4",
+            "star": 1
+        },
+        {
+            "type": "Pizza",
+            "name": "Pepperoni Pizza",
+            "price": 18.00,
+            "pic": "https://picsum.photos/300/300?5",
+            "star": 3
+        },
+        {
+            "type": "Pizza",
+            "name": "Veggie Pizza",
+            "price": 16.00,
+            "pic": "https://picsum.photos/300/300?6",
+            "star": 4
+        },
+        {
+            "type": "Pizza",
+            "name": "Hawaiian Pizza",
+            "price": 20.00,
+            "pic": "https://picsum.photos/300/300?7",
+            "star": 5
+        },
+        {
+            "type": "Pizza",
+            "name": "Meat Lovers Pizza",
+            "price": 22.00,
+            "pic": "https://picsum.photos/300/300?8",
+            "star": 3
+        },
+        {
+            "type": "Pizza",
+            "name": "BBQ Chicken Pizza",
+            "price": 24.00,
+            "pic": "https://picsum.photos/300/300?9",
+            "star": 2
+        },
+        {
+            "type": "Pizza",
+            "name": "Buffalo Chicken Pizza",
+            "price": 26.00,
+            "pic": "https://picsum.photos/300/300?10",
+            "star": 3
+        },
+        {
+            "type": "Pizza",
+            "name": "Margherita Pizza",
+            "price": 28.00,
+            "pic": "https://picsum.photos/300/300?11",
+            "star": 4
+        },
+        {
+            "type": "Pizza",
+            "name": "Supreme Pizza",
+            "price": 30.00,
+            "pic": "https://picsum.photos/300/300?12",
+            "star": 5
+        },
+        {
+            "type": "Pizza",
+            "name": "Mushroom Pizza",
+            "price": 32.00,
+            "pic": "https://picsum.photos/300/300?13",
+            "star": 3
+        },
+        {
+            "type": "Pizza",
+            "name": "Sausage Pizza",
+            "price": 34.00,
+            "pic": "https://picsum.photos/300/300?14",
+            "star": 2
+        },
+        {
+            "type": "Pizza",
+            "name": "Bacon Pizza",
+            "price": 36.00,
+            "pic": "https://picsum.photos/300/300?15",
+            "star": 3
+        },
+        {
+            "type": "Pizza",
+            "name": "Pineapple Pizza",
+            "price": 38.00,
+            "pic": "https://picsum.photos/300/300?16",
+            "star": 4
+        },
+        {
+            "type": "Pizza",
+            "name": "Artichoke Pizza",
+            "price": 40.00,
+            "pic": "https://picsum.photos/300/300?17",
+            "star": 5
+        },
+        {
+            "type": "Pizza",
+            "name": "Spinach Pizza",
+            "price": 42.00,
+            "pic": "https://picsum.photos/300/300?18",
+            "star": 3
+        },
+        {
+            "type": "Pizza",
+            "name": "Tomato Pizza",
+            "price": 44.00,
+            "pic": "https://picsum.photos/300/300?19",
+            "star": 2
+        },
+        {
+            "type": "Pizza",
+            "name": "Pepper Pizza",
+            "price": 46.00,
+            "pic": "https://picsum.photos/300/300?20",
+            "star": 3
+        },
+        {
+            "type": "Pizza",
+            "name": "Onion Pizza",
+            "price": 48.00,
+            "pic": "https://picsum.photos/300/300?21",
+            "star": 4
+        },
+        {
+            "type": "Pizza",
+            "name": "Garlic Pizza",
+            "price": 50.00,
+            "pic": "https://picsum.photos/300/300?22",
+            "star": 5
+        }
+    ]
+}
